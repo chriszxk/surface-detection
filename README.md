@@ -4,6 +4,7 @@ To train the model on your own dataset, modify the dataset path in `train.py` an
 
 ```bash
 python train.py
+```
 
 ## t-test Datasets
 
