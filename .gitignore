@@ -1,0 +1,32 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+runs/
+wandb/
+
+*.pt
+*.pth
+*.onnx
+*.engine
+
+.env
+
+.idea/
+.vscode/
+
+# Python / CUDA build files
+build/
+dist/
+*.egg-info/
+*.so
+*.o
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Ninja build cache
+.ninja_deps
+.ninja_log
+*.swp
