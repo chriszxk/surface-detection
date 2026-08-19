@@ -6,7 +6,6 @@ To train the model on your own dataset, modify the dataset path in `train.py` an
 python train.py
 ```
 
-```text
 When training on a custom dataset, you may adjust the placement of the lightweight downsampling modules and tune the activation function parameters according to the dataset characteristics for optimal performance.
 
 ## t-test Datasets
