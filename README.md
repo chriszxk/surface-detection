@@ -8,11 +8,11 @@ python train.py
 
 When training on a custom dataset, you may adjust the placement of the lightweight downsampling modules and tune the activation function parameters according to the dataset characteristics for optimal performance.
 
-## t-test Datasets
+##T-test Datasets
 
 The datasets used for the t-test experiments are available via the following links:
 
-**DeaNet-ttest-datasets**
+**Dataset Download**
 
 - [Baidu Netdisk](https://pan.baidu.com/s/1Nd-FozIXe0jAZqK-eowz_Q?pwd=g8s7)  
   Extraction code: `g8s7`
